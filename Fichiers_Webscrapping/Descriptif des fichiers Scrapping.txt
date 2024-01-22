@@ -1,0 +1,9 @@
+
+totals.csv : dataset issu des données scrappées représentant les investissement de Arsenal
+
+Scrapping_match2015.xlsx : scrapping du match absent de la saison 2015
+
+match_PL_2020_2021.csv : tous les matchs de premier league manquant pour la saison 2020/2021
+
+match.csv : dataset contenant toutes les données scrappées (de 2015 et 2020)
+
